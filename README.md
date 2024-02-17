@@ -12,7 +12,7 @@ This project leverages Natural Language Processing (NLP) and regression analysis
 
 
 
-## Methodology and Findings in Detail
+## Methodology and Findings 
 
 ### Methodology
 
