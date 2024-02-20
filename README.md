@@ -32,9 +32,8 @@ The project's approach included several critical steps to analyze consumer senti
 
 - **Sentiment Distribution:** The analysis identified 26,002 positive, 14,746 neutral, and 8,561 negative posts, with notable differences between the sentiment categories derived from VADER and those from K-Means clustering.
 
-- **Latent Topics:** The LDA model indicated that discussions primarily revolved around online shopping and in-store experiences, with two topics providing the most coherence.
-
-- **Logistic Regression Insights:** This analysis underscored the significance of subreddit IDs, comment scores, and posting year in sentiment prediction, revealing the adjusted approach for data imbalance.
+- **Latent Topics:** The LDA model indicated that discussions primarily revolved around online shopping and in-store experiences, with two topics providing the most coherence. From the logistic regression, it was inferred that posts that are about online shopping are correlated to positive sentiments
+- **Logistic Regression Result:** The logistic regression analysis indicated that mentions of online shopping in posts are associated with positive sentiment.
 
 - **Impact of Time on Sentiment:** Causal inference suggested a slight decrease in positive sentiment post-pandemic, indicating the pandemic's potential negative impact on public sentiment towards Black Friday.
 
